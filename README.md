@@ -1,9 +1,10 @@
+<<<<<<< HEAD
 # 📊 UTS Visualisasi Data - Dashboard Analisis Netflix
 
 * **Mata Kuliah:** Visualisasi Data
 * **Dosen Pengampu:** Muryan Awaludin, S.Kom., M.Kom.
-* **Nama Mahasiswa:** [Nama Anda]
-* **NPM:** [NPM Anda]
+* **Nama Mahasiswa:** [fauzi salimuddin]
+* **NPM:** [241051008]
 
 ---
 
@@ -34,3 +35,7 @@ Repositori ini berisi proyek dashboard interaktif untuk menganalisis katalog fil
    ```bash
    streamlit run app.py
    ```
+=======
+# netflixmovie
+Mata Kuliah: Visualisasi Data | Dosen: Muryan Awaludin, S.Kom., M.Kom.
+>>>>>>> fed81c5787c8fdaf921a1a1676fa11d9184bb90d

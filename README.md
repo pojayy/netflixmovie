@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Tautan Penting
-* **Live Dashboard:** [Tautan Streamlit / Cloud Hosting Anda]
+* **Live Dashboard:** https://netflixmovie-spqbbjagqq7dyogshuk8jn.streamlit.app/
 * **Dataset Kaggle:** [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
